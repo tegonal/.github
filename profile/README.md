@@ -10,7 +10,7 @@ Here is a selection of Open Source Projects we are currently working on:
 
 - 🦦 [Untendurch](https://github.com/prolutra/untendurch): Design and implementation of the platform for the Pro Lutra association for mapping bridges and checking them for "otter friendliness".
 
-- 🔍 [Metabase Teradata driver](https://github.com/swisscom-bigdata/metabase-teradata-driver): We maintain the Teradata driver implemented in Closure for Swisscom and the Metabase community.
+- 🔍 [Metabase Teradata driver](https://github.com/swisscom-bigdata/metabase-teradata-driver): We maintain the Teradata driver implemented in Clojure for Swisscom and the Metabase community.
 
 - 🎯 [Atrium](https://github.com/robstoll/atrium): The multiplatform assertion library for Kotlin with support for the JVM, JavaScript and Android.
 
