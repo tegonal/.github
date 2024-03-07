@@ -12,9 +12,9 @@ Here is a selection of Open Source Projects we are currently working on:
 
 - 🔍 [Metabase Teradata driver](https://github.com/swisscom-bigdata/metabase-teradata-driver): We maintain the Teradata driver implemented in Clojure for Swisscom and the Metabase community.
 
-- 🎯 [Atrium](https://github.com/robstoll/atrium): The multiplatform assertion library for Kotlin with support for the JVM, JavaScript and Android.
+- <img alt="🎯" src="https://docs.atriumlib.org/images/logo-icon.svg" width="16"/> [Atrium](https://github.com/robstoll/atrium): The multiplatform assertion library for Kotlin with support for the JVM, JavaScript and Android.
 
-- ⏲️ [Lasius](https://github.com/tegonal/lasius): Our time tracking system with integration of GitHub and Gitlab issues, comprehensive controlling and reporting functions. Lasius is multi-client capable. Interested? We'd be happy to show you Lasius.
+- <img alt="⏲️" src="https://time.tegonal.com/icon-16x16.png" width="16"/> [Lasius](https://github.com/tegonal/lasius): Our time tracking system with integration of GitHub and Gitlab issues, comprehensive controlling and reporting functions. Lasius is multi-client capable. Interested? We'd be happy to show you Lasius.
 
 - More repositories can be found in the complete list below...
 
