@@ -16,6 +16,10 @@ Here is a selection of Open Source Projects we are currently working on:
 
 - <img alt="⏲️" src="https://time.tegonal.com/icon-16x16.png" width="16"/> [Lasius](https://github.com/tegonal/lasius): Our time tracking system with integration of GitHub and Gitlab issues, comprehensive controlling and reporting functions. Lasius is multi-client capable. Interested? We'd be happy to show you Lasius.
 
+- 🏞️ [IMS Swiss parcs](https://github.com/netzwerk-schweizer-paerke/ims-tool): Multi-tenant tool to document processes of swiss parcs, based on payloadcms.
+  
+- 🌱 [Phaenonet](https://github.com/globe-swiss/phaenonet-client): Web client application for the phenology observation.
+
 - More repositories can be found in the complete list below...
 
 Tegonal is based in Bern/Switzerland. There is plenty more information about our aim, values and focus on our [website](https://tegonal.com).
