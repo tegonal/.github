@@ -8,6 +8,8 @@ Here is a selection of Open Source Projects we are currently working on:
 
 - 🪴 [Open Food Network Switzerland](https://www.openfoodswitzerland.ch): The open web platform for food distribution. We are part of an active international community, operate the platform for the OFN Switzerland association and ensure that it is adapted to the Swiss environment.
 
+- 🏘️ [Cohiva ](https://github.com/tegonal/cohiva): ERP platform for community-building in housing projects. It is mainly targeted at housing cooperatives, but it is suited for any housing management organization with a community related focus.
+
 - 🦦 [Untendurch](https://github.com/prolutra/untendurch): Design and implementation of the platform for the Pro Lutra association for mapping bridges and checking them for "otter friendliness".
 
 - 🔍 [Metabase Teradata driver](https://github.com/swisscom-bigdata/metabase-teradata-driver): We maintain the Teradata driver implemented in Clojure for Swisscom and the Metabase community.
