@@ -4,11 +4,11 @@ The tegonal team develops high quality software. We base our activity whenever p
 
 Here is a selection of Open Source Projects we are currently working on:
 
+- 🏘️ [Cohiva ](https://github.com/tegonal/cohiva): ERP platform for community-building in housing projects. It is mainly targeted at housing cooperatives, but it is suited for any housing management organization with a community related focus.
+
 - 👩‍🌾 [OpenOlitor](https://github.com/openolitor): We are co-initiators of the overall solution for community supported agricultere initiatives, Solawi and all subscription-based food distributors. The web application enables users to easily manage hundreds of subscriptions. From delivery planning to invoicing, everything is handled via OpenOlitor and subscribers can plan their absences via the customer portal.
 
 - 🪴 [Open Food Network Switzerland](https://www.openfoodswitzerland.ch): The open web platform for food distribution. We are part of an active international community, operate the platform for the OFN Switzerland association and ensure that it is adapted to the Swiss environment.
-
-- 🏘️ [Cohiva ](https://github.com/tegonal/cohiva): ERP platform for community-building in housing projects. It is mainly targeted at housing cooperatives, but it is suited for any housing management organization with a community related focus.
 
 - 🦦 [Untendurch](https://github.com/prolutra/untendurch): Design and implementation of the platform for the Pro Lutra association for mapping bridges and checking them for "otter friendliness".
 
